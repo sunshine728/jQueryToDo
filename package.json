@@ -1,0 +1,23 @@
+{
+  "name": "jquerytodo",
+  "version": "1.0.0",
+  "description": "jQuery实现清单的应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshine728/jQueryToDo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunshine728/jQueryToDo/issues"
+  },
+  "homepage": "https://github.com/sunshine728/jQueryToDo#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
